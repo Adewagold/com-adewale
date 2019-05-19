@@ -3,7 +3,7 @@ This class will contain different utils methods that will make development faste
 
 # Url Validator
 <p>Checks if a String is not empty (""), not null and not whitespace and if it's a correct url format.</p>
-* it validates urls with or without www and also gives room to add optional port numbers
+it validates urls with or without www and also gives room to add optional port numbers
 * <pre>
 * ifUrlIsValid("http://122.345.567.121")           = true
 * ifUrlIsValid("http://122.345.567.121:8080")      = true
